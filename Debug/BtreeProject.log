@@ -1,0 +1,24 @@
+﻿  bptree.cpp
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(96,16): warning C4244:  '초기화 중': 'std::streamoff'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(157,23): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(199,29): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(225,24): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(243,24): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(276,43): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(285,48): warning C4018:  '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(290,26): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(309,34): warning C4018:  '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(315,24): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(362,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(394,45): warning C4018:  '>': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(399,50): warning C4018:  '<=': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(403,23): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(420,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(460,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(523,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(564,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(604,22): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(632,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(641,21): warning C4018:  '<': signed 또는 unsigned가 일치하지 않습니다.
+C:\Users\82107\source\repos\BtreeProject\BtreeProject\bptree.cpp(660,7): warning C4101:  'c' :참조되지 않은 지역 변수입니다.
+  BtreeProject.vcxproj -> C:\Users\82107\source\repos\BtreeProject\Debug\BtreeProject.exe
